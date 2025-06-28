@@ -1,0 +1,6 @@
+streamlit
+weaviate-client
+sentence-transformers
+python-dotenv
+pymongo
+tqdm
